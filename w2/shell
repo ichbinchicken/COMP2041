@@ -1,0 +1,4 @@
+var=`cut -d'B' -f1 |wc -c`
+let var=$var-1
+echo $var
+egrep '

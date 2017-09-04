@@ -1,0 +1,10 @@
+25/09/16    15:00   19:15   finish set zero and one
+25/09/16    22:30   23:15   finish set two
+26/09/16    10:00   11:30   finish cookie0.pl
+26/09/16    14:00   15:30   finish set 3
+27/09/16    00:10   00:45   start set4 and finish devowel.pl
+27/09/16    12:00   16:00   finish set 4 and past dryrun tests
+28/09/16    10:00   14:00   add more features beyond examples
+30/09/16    17:00   19:00   debug for pop, push, and reverse
+01/10/16    22:00   01:30   finish some more complex syntax in set 5 and add more features, debug minor errors,  
+02/10/16    15:34   23:00   find good demos and debug for my demos
